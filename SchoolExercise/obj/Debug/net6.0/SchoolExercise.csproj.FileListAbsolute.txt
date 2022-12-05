@@ -1,0 +1,15 @@
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/SchoolExercise.csproj.AssemblyReference.cache
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/SchoolExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/SchoolExercise.AssemblyInfoInputs.cache
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/SchoolExercise.AssemblyInfo.cs
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/SchoolExercise.csproj.CoreCompileInputs.cache
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/bin/Debug/net6.0/SchoolExercise
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/bin/Debug/net6.0/SchoolExercise.deps.json
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/bin/Debug/net6.0/SchoolExercise.runtimeconfig.json
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/bin/Debug/net6.0/SchoolExercise.dll
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/bin/Debug/net6.0/ref/SchoolExercise.dll
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/bin/Debug/net6.0/SchoolExercise.pdb
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/SchoolExercise.dll
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/ref/SchoolExercise.dll
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/SchoolExercise.pdb
+/home/thata/RiderProjects/PraticingPoo/SchoolExercise/obj/Debug/net6.0/SchoolExercise.genruntimeconfig.cache
